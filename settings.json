@@ -8,7 +8,7 @@
   "server": {
     "ip": "SugarcanesSMP.aternos.me",
     "port": 28312,
-    "version": "1.21.1"
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Sup guys",
         "I like to play Minecraft!"
       ]
     },
